@@ -1,35 +1,33 @@
 {
-    "users":[
-        {
-            "id": 1,
-            "name": "Gertrudis Tatterton",
-            "age": 18,
-            "email": "gtatterton0@ehow.com"
-          },
-          {
-            "id": 2,
-            "name": "Gail Newbatt",
-            "age": 53,
-            "email": "gnewbatt1@un.org"
-          },
-          {
-            "id": 3,
-            "name": "Walliw Wilstead",
-            "age": 49,
-            "email": "wwilstead2@tripadvisor.com"
-          },
-          {
-            "id": 4,
-            "name": "Abran Proback",
-            "age": 29,
-            "email": "aproback3@theglobeandmail.com"
-          },
-          {
-            "id": 5,
-            "name": "Roda Chappelow",
-            "age": 31,
-            "email": "rchappelow4@oaic.gov.au"
-          }
-        
+    "cars": [
+      {
+        "id": 1,
+        "brand": "Tata",
+        "year": 2019,
+              "type":"Manual",
+        "kms": 10000,
+        "Description": "Tata Altroz with all original documents",
+        "Price": 500000
+      },
+      {
+        "id": 2,
+        "brand": "Tata",
+              "type":"AMT",
+        "year": 2017,
+        "kms": 8000,
+        "Description": "Tata Nexon with all original documents",
+        "Price": 800000
+      }
+    ],
+  "wishlisted_cars": [
+      {
+        "id": 1,
+        "brand": "Tata",
+        "year": 2019,
+              "type":"Manual",
+        "kms": 10000,
+        "Description": "Tata Altroz with all original documents",
+        "Price": 500000
+      }
     ]
-}
+  }
